@@ -1,5 +1,5 @@
 # import all the app dependencies
-!pip install joblib
+sudo pip3 install joblib
 import pandas as pd
 import numpy as np
 # import sklearn
